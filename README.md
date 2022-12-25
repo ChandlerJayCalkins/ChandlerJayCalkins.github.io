@@ -8,8 +8,8 @@
 
 - [Random Sound Discord Bot](/discordbot.html)
 
-- [Website-Databse Interface Project](/databse.html)
+- [Website-Databse Interface Project](/database.html)
 
-- [University of Idaho Robotics Club Quad-Legged Walking Bot](/robotics.html)
+- [Quad-Legged Walking Bot](/robotics.html)
 
 - [C- Compiler](/compiler.html)
