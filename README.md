@@ -2,7 +2,7 @@
 
 All of my projects on here are hosted on GitHub.
 
-[Wonky Wizards](https://github.com/Bloonagins/WonkyWizards)
+[Wonky Wizards](/wonkywizards)
 
 [Polymorphic Python Virus](https://github.com/ChandlerJayCalkins/UIdahoCS336VirusPresentation)
 
