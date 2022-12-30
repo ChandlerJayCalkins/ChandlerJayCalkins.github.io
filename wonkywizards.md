@@ -23,6 +23,6 @@
 			- Interactions (hitbox, physics, etc.)
 			- Stats (HP, cooldowns, etc.)
 
-- Emphasis of class was teamwork and learning how to actually work on a project in the industry
+- Emphasis of class was teamwork and learning how to work on an actual project in the industry
 
 - Project had strict rules about not doing other peoples' work for them
