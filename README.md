@@ -1,6 +1,6 @@
 # Welcome to My Portfolio!
 
-### All of my projects on here are hosted on GitHub.
+### This is a list of some of my biggest coding projects and some of the projects that I enjoyed the most. All of the projects listed on here are hosted on GitHub.
 
 - [Wonky Wizards](/wonkywizards.html)
 
