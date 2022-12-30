@@ -4,7 +4,7 @@
 
 - [Wonky Wizards](/wonkywizards.html)
 
-- [Polymorphic Python Virus](/virus.html)
+- [Python Viruses](/virus.html)
 
 - [Random Sound Discord Bot](/discordbot.html)
 
