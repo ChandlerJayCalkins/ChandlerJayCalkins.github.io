@@ -1,6 +1,6 @@
 # Wonky Wizards
 
-### [Repository](https://github.com/Bloonagins/WonkyWizards)
+### [Repository](https://github.com/Bloonagins/WonkyWizards){:target="_blank" rel="noopener"}
 
 - 2D tower defense + shooter game in Unity
 - Made in Fall of 2021 for software engineering class
