@@ -1,6 +1,6 @@
 # Database-Website Interface Project
 
-### [Repository](https://github.com/GabrielSJones/CS360-project)
+### [Repository](https://github.com/GabrielSJones/CS360-project){:target="_blank" rel="noopener"}
 
 - Website that searches for products / services in a database and displays the results
 - 3 required types of searches on the website:

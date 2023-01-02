@@ -1,6 +1,6 @@
 # Python Viruses
 
-### [Repository](https://github.com/ChandlerJayCalkins/UIdahoCS336VirusPresentation)
+### [Repository](https://github.com/ChandlerJayCalkins/UIdahoCS336VirusPresentation){:target="_blank" rel="noopener"}
 
 - Multiple demo viruses for Windows that infect other python files
 - Virus 1 infects python files with a comment just to show how to infect files

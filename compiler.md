@@ -1,6 +1,6 @@
 # C- Compiler
 
-### [Repository](https://github.com/ChandlerJayCalkins/C-Minus-Compiler)
+### [Repository](https://github.com/ChandlerJayCalkins/C-Minus-Compiler){:target="_blank" rel="noopener"}
 
 - Compiler for the C- programming language
 - Made in the Fall of 2022 in 14 weeks by me for a Compiler Design class

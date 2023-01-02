@@ -1,6 +1,6 @@
 # Quad-Legged Walking Bot
 
-### [Repository](https://github.com/Robot-Builders-Team-University-of-Idaho/Quad_Walker_Bot)
+### [Repository](https://github.com/Robot-Builders-Team-University-of-Idaho/Quad_Walker_Bot){:target="_blank" rel="noopener"}
 
 - WIP code for a 4-legged robot that can walk through a maze and solve the maze as it goes
 - Made by Mobile Robot Team in the University of Idaho Robotics Club

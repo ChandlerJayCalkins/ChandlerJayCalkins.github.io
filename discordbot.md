@@ -1,6 +1,6 @@
 # Random Sound Discord Bot
 
-### [Repository](https://github.com/ChandlerJayCalkins/RandomSoundBot)
+### [Repository](https://github.com/ChandlerJayCalkins/RandomSoundBot){:target="_blank" rel="noopener"}
 
 - Discord bot that joins voice channels at random times and plays random sound files
 - Highly customizable
