@@ -8,5 +8,6 @@
 	- Search 2 is an attribute-based search for products in the database
 	- Search 3 is an attribute-based search for services in the database
 - Also has pages where you can add, remove, and edit rows in the database
-- Uses Xampp to localhost the website
+- Used Xampp to localhost the website
+- Used phpmyadmin to host the database
 - Created in Spring of 2022 in under a month by me and a partner for a final project in a Database Systems class
