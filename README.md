@@ -1,6 +1,6 @@
 # Welcome to My Portfolio!
 
-### This is a list of some of my biggest and most fun coding projects from school and free time. All of the projects listed on here are hosted on GitHub.
+### This is a list of some of my biggest and most fun coding projects from school and my free time. All of the projects listed on here are hosted on GitHub.
 
 - [Wonky Wizards](/wonkywizards.html)
 
