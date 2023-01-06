@@ -14,4 +14,4 @@
 	- This means that the payload that the virus infects files with is different every time
 	- This makes it much harder for anti-virus software to detect files infected by this virus
 - The discord virus infects discord bots and makes them kick everyone from a server and delete all of the channels when they start up
-- Professor offered to hire me for a research opporunity after the presentation
+- Professor offered to hire me for a research opporunity because of the presentation
