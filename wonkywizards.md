@@ -7,7 +7,13 @@
 - Made by team of 7 people in about 12 weeks
 - My roles on the team:
 	- Game Design Lead
+		- Came up with idea for game
+		- Designed gameplay mechanics
+		- Created backstory
+		- Guided others with creative ambiguity
 	- Software Architecture Co-Lead
+		- Taught rest of the team how to use Unity
+		- Guided others with coding problems
 	- Responsible for:
 		- Player controls
 			- Movement
@@ -19,5 +25,3 @@
 		- Player object
 			- Interactions (hitbox, physics, etc.)
 			- Stats (HP, cooldowns, etc.)
-- Emphasis of class was teamwork and learning how to work on an actual project in the industry
-- Project had strict rules about not doing other peoples' work for them
