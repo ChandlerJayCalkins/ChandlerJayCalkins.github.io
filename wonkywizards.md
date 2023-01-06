@@ -12,7 +12,7 @@
 		- Created backstory
 		- Guided others with creative ambiguity
 	- Software Architecture Co-Lead
-		- Taught rest of the team how to use Unity
+		- Quickly learned Unity and taught rest of the team how to use Unity
 		- Guided others with coding problems
 	- Responsible for:
 		- Player controls
