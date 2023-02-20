@@ -6,10 +6,12 @@
 
 - [Python Viruses](/virus.html)
 
-- [Random Sound Discord Bot](/discordbot.html)
+- [Random Sound Discord Bot](/randombot.html)
 
 - [Website-Databse Interface Project](/database.html)
 
 - [Quad-Legged Walking Bot](/robotics.html)
 
 - [C- Compiler](/compiler.html)
+
+- [Capstone Meeting Discord Bot](/capstonebot.html)
