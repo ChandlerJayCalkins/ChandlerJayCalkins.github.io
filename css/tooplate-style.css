@@ -229,6 +229,12 @@ button:focus
 	text-align: center;
 }
 
+.tm-side-margin-auto
+{
+	margin-left: auto;
+	margin-right: auto;
+}
+
 /* Hero Slider */
 .cd-hero-slider
 {
