@@ -592,7 +592,7 @@
 				// if visible - we are not on a mobile device
 				var videoUrl = videoWrapper.data('video'),
 				
-				video = $('<video autoplay="true" loop="loop"><source src="'+videoUrl+'" type="video/mp4" /></video>');
+				video = $('<video autoplay="true" loop="loop" muted><source src="'+videoUrl+'" type="video/mp4" /></video>');
 				video.appendTo(videoWrapper);
 				
 				// play video if first slide
