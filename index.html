@@ -592,7 +592,7 @@
 				// if visible - we are not on a mobile device
 				var videoUrl = videoWrapper.data('video'),
 				
-				video = $('<video autoplay loop><source src="'+videoUrl+'" type="video/mp4" /></video>');
+				video = $('<video autoplay="true" loop="loop"><source src="'+videoUrl+'" type="video/mp4" /></video>');
 				video.appendTo(videoWrapper);
 				
 				// play video if first slide
@@ -610,24 +610,6 @@
 			{
 				uploadVideo();
 			}
-			
-			/* Gallery One pop up
-			-----------------------------------------*/
-			$('.gallery-first').magnificPopup
-			({
-				delegate: 'a', // child items selector, by clicking on it popup will open
-				type: 'image',
-				gallery:{enabled:true}
-			});
-			
-			/* Gallery Two pop up
-			-----------------------------------------*/
-			$('.gallery-second').magnificPopup
-			({
-				delegate: 'a', // child items selector, by clicking on it popup will open
-				type: 'image',
-				gallery:{enabled:true}
-			});
 			
 			/* Collapse menu after click
 			-----------------------------------------*/
