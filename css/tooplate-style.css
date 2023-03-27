@@ -176,7 +176,7 @@ button:focus
 {
 	background-color: transparent;
 	color: white;
-	font-size: 3.25rem;
+	font-size: 3rem;
 	padding-top: 0;
 	padding-bottom: 0;
 	display: -ms-flexbox;
@@ -965,7 +965,7 @@ textarea
 
 	.cd-slider-nav a.navbar-brand
 	{
-		font-size: 3.25rem;
+		font-size: 3rem;
 	}
 
 	.tm-navbar-bg
@@ -1083,7 +1083,7 @@ textarea
 	
 	.cd-slider-nav a.navbar-brand
 	{
-		font-size: 3.25rem;
+		font-size: 3rem;
 	}
 	
 	.tm-navbar-bg
