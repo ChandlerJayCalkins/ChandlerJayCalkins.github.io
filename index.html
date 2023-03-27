@@ -22,14 +22,12 @@
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<!-- Bootstrap style -->
 	<link rel="stylesheet" href="css/hero-slider-style.css">
-	<!-- Hero slider style (https://codyhouse.co/gem/hero-slider/) -->
-	<link rel="stylesheet" href="css/magnific-popup.css">
 	<!-- Magnific popup style (http://dimsemenov.com/plugins/magnific-popup/) -->
 	<link rel="stylesheet" href="css/tooplate-style.css">
 	<!-- Tooplate style -->
 	
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!-- WARNING: Respond.js doesn't work sometimes if you view the page via file:// -->
 		<!--[if lt IE 9]>
 		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
@@ -96,7 +94,7 @@
 													I also have leadership experience, I'm very patient and love helping people, I'm a fast learner, and I love programming.
 												</p>
 												<p class="tm-text tm-home-description">
-													This is a personal website that serves as a fancier copy of my resume.
+													This is a personal website that serves as a fancier copy of my resume / portfolio.
 													If you'd like to reach out to me, you can find my contact info on the "Contact" page.
 												</p>
 											</div>
@@ -558,7 +556,7 @@
 	<script src="js/jquery.magnific-popup.min.js"></script>	<!-- Magnific popup (http://dimsemenov.com/plugins/magnific-popup/) -->
 	
 	<script>
-		
+		// Adjusts elements based on height of page
 		function adjustHeightOfPage(pageNo)
 		{
 			var offset = 80;
@@ -583,6 +581,7 @@
 			}
 		}
 		
+		// Load / reload background video (used when page loads or when window size changes)
 		function uploadVideo()
 		{
 			var videoWrapper = $('.cd-bg-video-wrapper');
@@ -590,7 +589,7 @@
 			{
 				// if visible - we are not on a mobile device
 				var videoUrl = videoWrapper.data('video'),
-				
+				// video must be muted in order to autoplay on most modern browsers
 				video = $('<video autoplay loop muted><source src="'+videoUrl+'" type="video/mp4" /></video>');
 				video.appendTo(videoWrapper);
 				
