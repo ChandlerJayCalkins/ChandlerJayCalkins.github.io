@@ -1,3 +1,3 @@
 # ChandlerJayCalkins.github.io
 
-This is my personal website / portfolio.
+My personal website / portfolio.
