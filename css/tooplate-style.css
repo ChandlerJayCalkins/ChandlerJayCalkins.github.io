@@ -474,6 +474,13 @@ button:focus
 	max-width: 1150px;
 }
 
+.tm-image-link
+{
+	display: block;
+	width: 150px;
+	margin: auto;
+}
+
 .form-control,
 .tm-submit-btn
 {
