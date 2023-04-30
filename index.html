@@ -604,13 +604,22 @@
 		function uploadVideo()
 		{
 			var videoWrapper = $('.cd-bg-video-wrapper');
+			// if visible - not on a mobile device
 			if ( videoWrapper.is(':visible') )
 			{
-				// if visible - we are not on a mobile device
+				// get previous video element so it can be removed
+				const oldVideo = document.getElementById("bg-video");
 				var videoUrl = videoWrapper.data('video'),
 				// video must be muted in order to autoplay on most modern browsers
-				video = $('<video autoplay loop muted><source src="'+videoUrl+'" type="video/mp4" /></video>');
+				video = $('<video autoplay loop muted id="bg-video"><source src="'+videoUrl+'" type="video/mp4" /></video>');
+				// add new video to video wrapper
 				video.appendTo(videoWrapper);
+				// if there is a previous background video
+				if (!(oldVideo === null))
+				{
+					// remove it to reduce lag so it's not playing more than 1 background video at the same time
+					oldVideo.remove();
+				}
 				
 				// play video if first slide
 				if(videoWrapper.parent('.cd-bg-video.selected').length > 0) video.get(0).play();
