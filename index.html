@@ -615,7 +615,7 @@
 				// add new video to video wrapper
 				video.appendTo(videoWrapper);
 				// if there is a previous background video
-				if (!(oldVideo === null))
+				if (oldVideo !== null)
 				{
 					// remove it to reduce lag so it's not playing more than 1 background video at the same time
 					oldVideo.remove();
