@@ -888,6 +888,7 @@ textarea
 .tm-2-col-equal-height-long
 {
 	height: 90%;
+	padding-bottom: 50px;
 }
 
 .tm-2-col-equal-height-short
